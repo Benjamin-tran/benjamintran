@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '1569f84b64044f66b22fe60fc9d4fccc',
+  rootNotionPageId: '4391b7c9ccd94208be106508ba30810c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -14,8 +14,7 @@ module.exports = {
   // social usernames (optional)
   twitter: '_benjamin_t',
   github: 'benjamin-tran',
-  instagram: 'benjamin.tran',
-
+  
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
